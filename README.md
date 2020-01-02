@@ -1,2 +1,5 @@
 # hello-world
-The traditional test case
+Removed original line
+Added these lines
+	2
+	4
